@@ -2,6 +2,7 @@
 
 This repository contains a Tableau dashboard that visualizes and analyzes employee churn within an organization. The dashboard helps HR teams identify churn trends, key drivers, and retention opportunities through interactive visualizations.
 
+![Dashboard Preview](HR ANALYTICS DASHBOARD.png)
 ---
 
 ## Features
